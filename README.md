@@ -1,2 +1,4 @@
 # simple-todos-angular
-Demo simple to dos by meteor and angular
+Demo simple todos by meteor and angular
+
+Deploy to http://phund-simple-todos-angular.meteor.com
